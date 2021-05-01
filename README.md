@@ -4,7 +4,6 @@ Building an online database for storing, curating and sharing metadata and data 
 ![](img/histodb.png)
 
 ## Project description
-This project is part of the Google Summer of Code 2021 within the INCF organisation.  
 
 #### Problem
 Brain histology provides unique information on the cellular structure of the brain. Histological data has been collected for more than a century, and is available for a wide variety of species and developmental stages. The physical slides require lots of effort for being digitised at high resolution, and thus, usually only selected slides, representing only specific regions and specimens within much larger collections have been scanned by individual researchers for their own projects. This has led to a wealth of digitised histological data being spread across several researchers and labs, with no coherent structure, common identifiers, or a method to see, access, and annotate the data.
