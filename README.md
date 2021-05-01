@@ -1,5 +1,7 @@
 # histology-db
-Building an online database for storing, curating and sharing metadata and data from diverse collections of histological data.
+Building an online database for storing, curating and sharing metadata and data from diverse collections of histological data.  
+
+![](img/histodb.png)
 
 ## Project description
 This project is part of the Google Summer of Code 2021 within the INCF organisation.  
